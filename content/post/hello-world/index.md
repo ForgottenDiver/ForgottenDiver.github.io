@@ -5,9 +5,10 @@ slug: hello-world
 date: 2026-02-07 00:00:00+0000
 image: IMG_2157.jpg
 categories:
-    - Example Category
+    - 2026
+    - 生活
 tags:
-    - Example Tag
+    - 碎碎念
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
