@@ -18,9 +18,9 @@ SortBy              = "default"
     lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-    emoji    = "🍥"#当前状态（？）
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."#座右铭
-    avatar   = "img/IMG_2157.JPG"#头像
+    emoji    = "🍥"
+    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    avatar   = "img/IMG_2157.JPG"
 
 [article]
     headingAnchor = false
