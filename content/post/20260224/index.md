@@ -7,7 +7,7 @@ categories:
     - 生活
 tags:
     - 碎碎念
-weight: 2       # You can add weight to some posts to override the default sorting (date descending)
+weight: 3       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 说实话，看了朋友转发的一些别人的博客之后，其思考深度及内容丰富程度令我大为震撼，使我对动笔这件事的积极性受到了很大的打击。这么多年来始终是写作苦手，文笔幼稚的同时感知能力也较为欠缺，高中时期才开始逐渐开智，个人认知及社会化水平至今并且可能永远也赶不上身边的一些朋友，所以大概只能记录一些很简单的事情和思考，希望偶然看到这段电子垃圾的人不要嘲笑。
